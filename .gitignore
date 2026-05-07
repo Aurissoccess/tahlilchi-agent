@@ -5,6 +5,7 @@ temp_uploads/
 downloads/
 *.pyc
 .streamlit/
-requirements.txt
+# requirements.txt - buni yuklash kerak
+# requirements.txt ni olib tashladim
 # requirements.txt ni o'zimiz yaratganmiz, lekin uni push qilish kerak.
 # Shuning uchun requirements.txt ni gitignore dan olib tashlayman.
